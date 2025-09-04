@@ -127,17 +127,16 @@ Here you can find some of my projects! Hope you enjoy :)
 FEB 2025 - DEC 2026 ( Associates Degree ) 
 [**FIAP**](https://www.fiap.com.br/graduacao/tecnologo/data-science/) 
 
+</div>
 </details>
 <details closed>
 <summary><strong>Certificates:</strong></summary>
 <a href="https://www.linkedin.com/in/isabella-heder-b7b022296/details/certifications/?locale=en_US" target="_blank">
   View my certifications on LinkedIn
-</a>
-<br>
-<br>
-<details closed> <br>
 
-    
+</div>
+</details>
+<details closed>
 <summary><strong>Statistics</strong></summary>
 <div align="center">
 <br>
@@ -167,6 +166,10 @@ FEB 2025 - DEC 2026 ( Associates Degree )
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
   <img src="https://github-profile-trophy.vercel.app/?username=isabellaheder&theme=dracula&margin-w=5&margin-h=5&column=-1" alt="Trophy" width="90%">
 </div>
+
+</div>
+</details>
+<details closed>
 </a>
 <br>
 </div>
