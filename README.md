@@ -116,9 +116,9 @@ Here you can find some of my projects! Hope you enjoy :)
 </details>
 
 <details closed>
-<summary><strong>Competences and Experiences</strong></summary>
+<summary><strong>Education</strong></summary>
 
-#### Higher Education 
+#### University:
 <br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_utdz60WOw1d7HI8OAvIxnt5JxfOxbCGV8w&s" alt="FIAP Logo" width="94" height="94" style="margin-right: 10px; float: left;" />
 
@@ -126,12 +126,11 @@ Here you can find some of my projects! Hope you enjoy :)
 FEB 2025 - DEC 2026  
 [**FIAP**](https://www.fiap.com.br/graduacao/tecnologo/data-science/)
 
-<details><summary>Credenciais e Certificados:</summary>
+#### Cerificates:
 <br>
-
-- [GOLD CERTIFICATE FOR BEST STUDENTS](https://www.linkedin.com/in/isabella-heder-b7b022296/details/certifications/1755100886573/single-media-viewer/?locale=en_US&profileId=ACoAAEeM1g8Bhufdmn4oOgQEQA5gAX5Y5dwgvRw)
-- [Nano Course - Formação Social e Sustentabilidade](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=2548bc8fb50d23243cee3c1e00d46072&action=view)
-</details>
+<a href="https://www.linkedin.com/in/isabella-heder-b7b022296/details/certifications/?locale=en_US" target="_blank">
+  View my certifications on LinkedIn
+</a>
 
 <br>
 <details closed>
