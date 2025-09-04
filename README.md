@@ -26,7 +26,7 @@
 
 <details closed>
 <summary><strong>About me</strong></summary>
-
+<br>
 Hi! My name is [**Isabella Heder**](https://www.linkedin.com/in/isabella-heder-b7b022296). I am a Data Science student at FIAP with a strong interest in technology.
 
 During my studies, I have gained practical experience with essential tools such as Python, Power BI, Microsoft Office, SQL, Docker and many others. 
@@ -45,11 +45,7 @@ Here you can find some of my projects! Hope you enjoy :)
 <summary><strong>Technology and Tools</strong></summary>
 
 #### • Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![SQL Data Modeler](https://img.shields.io/badge/SQL%20Data%20Modeler-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)   ![SQL Data Modeler](https://img.shields.io/badge/SQL%20Data%20Modeler-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 #### • Versioning and Collaboration
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
@@ -111,18 +107,12 @@ Here you can find some of my projects! Hope you enjoy :)
 <summary><strong>Education</strong></summary>
 
 <div style="display: flex; align-items: center; gap: 15px;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_utdz60WOw1d7HI8OAvIxnt5JxfOxbCGV8w&s" 
-       alt="FIAP Logo" 
-       width="94" 
-       height="94" />
+<img  align="left" alt="FIAP Logo" width="94px" height="94px" style="margin-right: 10px; float: left;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_utdz60WOw1d7HI8OAvIxnt5JxfOxbCGV8w&s"/>
 
-  <div>
-    <strong>DATA SCIENCE - ONGOING</strong><br>
-    FEB 2025 - DEC 2026 (Associate Degree)<br>
-    <a href="https://www.fiap.com.br/graduacao/tecnologo/data-science/" target="_blank"><strong>FIAP</strong></a>
-  </div>
+**DATA SCIENCE - ONGOING** 
+FEB 2025 - DEC 2026 ( Associates Degree ) 
+[**FIAP**](https://www.fiap.com.br/graduacao/tecnologo/data-science/) 
 </div>
-
 </details>
 
 ---
