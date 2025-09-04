@@ -51,41 +51,7 @@ Here you can find some of my projects! Hope you enjoy :)
 
 <details closed>
 
-<summary><strong>Statistics</strong></summary>
-<div align="center">
-<br>
-<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
-  <img src="https://github-stats-alpha.vercel.app/api?username=isabellaheder&cc=2A2E36&tc=78d6f6&ic=fe6e95&bc=fff" alt="Profile" width="52%">
-</div>
-<br>
-<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isabellaheder&theme=dracula&locale=pt_BR&fire=79DAFA&currStreakNum=fff&sideLabels=79DAFA" alt="Streaks" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabellaheder&show_icons=true&theme=dracula&custom_title=Status%20on%20GitHub:" alt="Github Stats" width="46%">
-</div>
-<br>
-<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isabellaheder&theme=dracula" alt="Top Language by Commit" width="40%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isabellaheder&theme=dracula" alt="Top Language by Repo" width="40%">
-</div>
-<br>
-<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isabellaheder&bg_color=red&color=bd93f9&line=78d6f6&point=fff&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20Mensais:&hide_border=true" alt="Top Contribuition Graph" width="95%">
-</div>
-<br>
-<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isabellaheder&theme=dracula" alt="Details" width="60%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isabellaheder&theme=dracula&utcOffset=-3" alt="Commits" width="29%">
-</div>
-<br>
-<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
-  <img src="https://github-profile-trophy.vercel.app/?username=isabellaheder&theme=dracula&margin-w=5&margin-h=5&column=-1" alt="Trophy" width="90%">
-</div>
-</a>
-<br>
-</div>
-</details>
 
-<details closed>
 <summary><strong>Technology and Tools</strong></summary>
 
 #### • Tools
@@ -151,3 +117,45 @@ Here you can find some of my projects! Hope you enjoy :)
 
 <details closed>
 <summary><strong>Competencies and Experiences</strong></summary>
+
+#### • Qualificação Acadêmica
+<br>
+
+**DATA SCIENCE- FIAP** \
+[**FIAP**](https://www.fiap.com.br/graduacao/tecnologo/data-science/?utm_term=&utm_campaign=GRAD+-+DSA&utm_source=adwords&utm_medium=ppc&hsa_acc=3358810376&hsa_cam=21102294227&hsa_grp=158449020381&hsa_ad=737339939679&hsa_src=g&hsa_tgt=dsa-2403784242683&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=21102294227&gbraid=0AAAAADqmiBAVmVNAQJ5OcDAYJnHhY1Z-8&gclid=Cj0KCQjw8eTFBhCXARIsAIkiuOwHsKEwVJOD-ql4tk5FNJJeOPXt18aO3RzJOQrQPnhdaYp10hEhjjEaAll_EALw_wcB)
+
+<summary><strong>Statistics</strong></summary>
+<div align="center">
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="https://github-stats-alpha.vercel.app/api?username=isabellaheder&cc=2A2E36&tc=78d6f6&ic=fe6e95&bc=fff" alt="Profile" width="52%">
+</div>
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isabellaheder&theme=dracula&locale=pt_BR&fire=79DAFA&currStreakNum=fff&sideLabels=79DAFA" alt="Streaks" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=isabellaheder&show_icons=true&theme=dracula&custom_title=Status%20on%20GitHub:" alt="Github Stats" width="46%">
+</div>
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=isabellaheder&theme=dracula" alt="Top Language by Commit" width="40%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=isabellaheder&theme=dracula" alt="Top Language by Repo" width="40%">
+</div>
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isabellaheder&bg_color=red&color=bd93f9&line=78d6f6&point=fff&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20Mensais:&hide_border=true" alt="Top Contribuition Graph" width="95%">
+</div>
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isabellaheder&theme=dracula" alt="Details" width="60%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isabellaheder&theme=dracula&utcOffset=-3" alt="Commits" width="29%">
+</div>
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=isabellaheder&theme=dracula&margin-w=5&margin-h=5&column=-1" alt="Trophy" width="90%">
+</div>
+</a>
+<br>
+</div>
+</details>
+
+<details closed>
