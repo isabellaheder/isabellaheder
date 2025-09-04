@@ -92,41 +92,13 @@ Here you can find some of my projects! Hope you enjoy :)
 <h3>• Skills:</h3>
 <div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
 
-  <!-- Python -->
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://www.citypng.com/public/uploads/small/2060809444hd-python-logo-symbol-transparent-png.png" alt="Python" width="30" height="30"/>
-    <span>Python</span>
-  </div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![HBase](https://img.shields.io/badge/HBase-DC4405?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-  <!-- SQL -->
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://seeklogo.com/images/S/sql-logo-AC1C1E30B5-seeklogo.com.png" alt="SQL" width="30" height="30"/>
-    <span>SQL</span>
-  </div>
-
-  <!-- Docker -->
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="30" height="30"/>
-    <span>Docker</span>
-  </div>
-
-  <!-- MongoDB -->
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://www.mongodb.com/assets/images/global/leaf.png" alt="MongoDB" width="30" height="30"/>
-    <span>MongoDB</span>
-  </div>
-
-  <!-- HBase -->
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Apache_HBase_Logo.svg/512px-Apache_HBase_Logo.svg.png" alt="HBase" width="30" height="30"/>
-    <span>HBase</span>
-  </div>
-
-  <!-- Power BI -->
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="30" height="30"/>
-    <span>Power BI</span>
-  </div>
 
 </div>
 
