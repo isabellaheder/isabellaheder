@@ -1,6 +1,7 @@
 # Hello Github!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F729D7&center=true&multiline=true&width=435&lines=My+name+is+Isabella!;Welcome+to+my+Github+Page!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F729D7&center=true&multiline=true&width=436&lines=My+name+is+Isabella+Heder!)](https://git.io/typing-svg)
+
 <br>
 <div align="center">
 <b><img width="12"
