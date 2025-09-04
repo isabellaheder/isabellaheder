@@ -89,7 +89,7 @@ Here you can find some of my projects! Hope you enjoy :)
 <summary><strong>Technology and Tools</strong></summary>
 
 #### • Languages, Frameworks and Libraries I've had contact
-![Power BI]((https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=power-bi-icon&logoColor=white)))
+![Power BI]((https://custom-icon-badges.demolab.com/badge/?logo=power-bi-icon&logoColor=white)))
 ![Python](https://img.shields.io/badge/Python-346fa0?style=flat&logo=python&logoColor=f7ca3e)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ead41c?style=flat&logo=javascript&logoColor=323330)
 ![HTML5](https://img.shields.io/badge/HTML5-d84924?style=flat&logo=html5&logoColor=white)
