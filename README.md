@@ -1,43 +1,32 @@
+
+
 # Hello Github!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F729D7&center=true&multiline=true&width=436&lines=My+name+is+Isabella+Heder!)](https://git.io/typing-svg)
 
-
 <br>
+
 <div align="center">
-<b><str>Python | Power BI | SQL | DAX | Dashboards | And more! </str>
-<br>
-<br>
-
-<blockquote>
-    <p><i>
-       Data Science student at FIAP in São Paulo, Brazil!
-</blockquote>
+  <strong>Python | Power BI | SQL | DAX | Dashboards | And more!</strong>
+  <br><br>
+  <blockquote>
+    <i>Data Science student at FIAP in São Paulo, Brazil!</i>
+  </blockquote>
 </div>
 
 ---
 
 <div align="center">
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-lavender?logo=linkedin&logoColor=0077B5)](www.linkedin.com/in/isabella-heder-b7b022296)
-[![Gmail](https://img.shields.io/badge/Gmail-lavender?logo=gmail)](mailto:isabella.f.heder@gmail.com)
-
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-lavender?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/isabella-heder-b7b022296)  
+  [![Gmail](https://img.shields.io/badge/Gmail-lavender?logo=gmail)](mailto:isabella.f.heder@gmail.com)
 </div>
 
-<p>
+---
 
 <details closed>
 <summary><strong>About me</strong></summary>
 
----
-
-<!-- <div align="right" style="margin:auto">
-        <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aylmerbolzan&theme=dracula&custom_title=Linguagens%20que%20mais%20utilizo:"
-       alt="Most used languages" align="right">
-    </a>
-</div> -->
-
-Hi! My name is [**Isabella Heder**](www.linkedin.com/in/isabella-heder-b7b022296). I am a Data Science student at FIAP with a strong interest in technology.
+Hi! My name is [**Isabella Heder**](https://www.linkedin.com/in/isabella-heder-b7b022296). I am a Data Science student at FIAP with a strong interest in technology.
 
 During my studies, I have gained practical experience with essential tools such as Python, Power BI, Microsoft Office, SQL, Docker and many others. 
 
@@ -49,9 +38,9 @@ Here you can find some of my projects! Hope you enjoy :)
 
 </details>
 
+---
+
 <details closed>
-
-
 <summary><strong>Technology and Tools</strong></summary>
 
 #### • Tools
@@ -115,29 +104,44 @@ Here you can find some of my projects! Hope you enjoy :)
 
 </details>
 
+---
+
 <details closed>
 <summary><strong>Education</strong></summary>
 
-#### University: 
-<img  align="left" alt="FIAP Logo" width="94px" height="94px" style="margin-right: 10px; float: left;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_utdz60WOw1d7HI8OAvIxnt5JxfOxbCGV8w&s"/>
+<div style="display: flex; align-items: center; gap: 15px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_utdz60WOw1d7HI8OAvIxnt5JxfOxbCGV8w&s" 
+       alt="FIAP Logo" 
+       width="94" 
+       height="94" />
 
-
-
-**DATA SCIENCE - ONGOING** 
-FEB 2025 - DEC 2026 ( Associates Degree ) 
-[**FIAP**](https://www.fiap.com.br/graduacao/tecnologo/data-science/) 
-
+  <div>
+    <strong>DATA SCIENCE - ONGOING</strong><br>
+    FEB 2025 - DEC 2026 (Associate Degree)<br>
+    <a href="https://www.fiap.com.br/graduacao/tecnologo/data-science/" target="_blank"><strong>FIAP</strong></a>
+  </div>
 </div>
+
 </details>
+
+---
+
 <details closed>
-<summary><strong>Certificates:</strong></summary>
+<summary><strong>Certificates</strong></summary>
+
 <a href="https://www.linkedin.com/in/isabella-heder-b7b022296/details/certifications/?locale=en_US" target="_blank">
   View my certifications on LinkedIn
+</a>
 
-</div>
 </details>
+
+---
+
 <details closed>
 <summary><strong>Statistics</strong></summary>
+
+<div align="center">
+
 <div align="center">
 <br>
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
@@ -168,11 +172,8 @@ FEB 2025 - DEC 2026 ( Associates Degree )
 </div>
 
 </div>
+
 </details>
-<details closed>
-</a>
-<br>
-</div>
-</details>
+
 
 <details closed>
