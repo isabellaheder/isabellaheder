@@ -87,8 +87,8 @@ Here you can find some of my projects! Hope you enjoy :)
 
 <details closed>
 <summary><strong>Technology and Tools</strong></summary>
+
 #### • Tools
-    
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
@@ -113,6 +113,7 @@ Here you can find some of my projects! Hope you enjoy :)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![WSL](https://img.shields.io/badge/WSL-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
+![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)  
 
 #### • Python Libraries  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
@@ -140,9 +141,13 @@ Here you can find some of my projects! Hope you enjoy :)
 ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
+#### • Other Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)  
+
 </div>
 
 </details>
 
 <details closed>
-<summary><strong>Competências e Experiência</strong></summary>
+<summary><strong>Competencies and Experiences</strong></summary>
