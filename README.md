@@ -89,19 +89,18 @@ Here you can find some of my projects! Hope you enjoy :)
 <summary><strong>Technology and Tools</strong></summary>
 
 #### • Languages, Frameworks and Libraries I've had contact
-![Power BI]((https://custom-icon-badges.demolab.com/badge/Power%20BI?logo=power-bi-icon&logoColor=white)))
-![Python](https://img.shields.io/badge/Python-346fa0?style=flat&logo=python&logoColor=f7ca3e)
-![JavaScript](https://img.shields.io/badge/JavaScript-ead41c?style=flat&logo=javascript&logoColor=323330)
-![SQL](https://img.shields.io/badge/SQL?logo=mysql)
-![CSS3](https://img.shields.io/badge/CSS3-2449d8?style=flat&logo=css3&logoColor=white)
-![Node.JS](https://custom-icon-badges.demolab.com/badge/-Node.JS-679e58?style=flat&logo=node.js&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-35b3eb?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-6d11ea?style=flat&logo=bootstrap&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6aad3d?style=flat&logo=spring&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React.JS-2a2c2e?style=flat&logo=react&logoColor=61dafb)
-![GWT](https://img.shields.io/badge/GWT-f03333?style=flat&logo=google&logoColor=404040)
-![Axios](https://img.shields.io/badge/Axios-5527d8?style=flat&logo=axios&logoColor=white)
+<!-- Python -->
+<img src="https://www.citypng.com/public/uploads/small/2060809444hd-python-logo-symbol-transparent-png.png" alt="Python" width="40" height="40"/>
+
+<!-- SQL -->
+<img src="https://seeklogo.com/images/S/sql-logo-AC1C1E30B5-seeklogo.com.png" alt="SQL" width="40" height="40"/>
+
+
+
+
+<!-- Power BI -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
+
 
 #### • Editors and Extensions I've had contact
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-1a70a5?style=flat&logo=intellij-idea&logoColor=white)
@@ -121,7 +120,15 @@ Here you can find some of my projects! Hope you enjoy :)
 ![ZSH](https://img.shields.io/badge/zShell-ffffff?style=flat&logo=zsh)
 ![PowerShell](https://img.shields.io/badge/PowerShell-fff?style=flat&logo=powershell)
 
+<!-- Docker -->
+<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="40" height="40"/>
+
 #### • Databases I've had contact
+<!-- MongoDB -->
+<img src="https://www.mongodb.com/assets/images/global/leaf.png" alt="MongoDB" width="40" height="40"/>
+
+<!-- HBase -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Apache_HBase_Logo.svg/512px-Apache_HBase_Logo.svg.png" alt="HBase" width="40" height="40"/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30628a?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB?logo=mongodb)
 ![SQLite](https://img.shields.io/badge/SQLite-c1cdda?style=flat&logo=sqlite&logoColor=1784ce)
