@@ -4,11 +4,7 @@
 
 <br>
 <div align="center">
-<b><img width="12"
-  src="https://skillicons.dev/icons?i=java"> Power BI | <img width="12"
-  src="https://skillicons.dev/icons?i=docker"> Docker | <img width="12"
-  src="https://skillicons.dev/icons?i=sql"> SQL | <img width="12"
-  src="https://skillicons.dev/icons?i=python"> Python | <img width="12"
+<b><str>Python | Power BI | SQL | DAX | Dashboards | And more! </str>
 <br>
 <br>
 
