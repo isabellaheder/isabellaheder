@@ -119,21 +119,26 @@ Here you can find some of my projects! Hope you enjoy :)
 <summary><strong>Education</strong></summary>
 
 #### University:
-<br>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_utdz60WOw1d7HI8OAvIxnt5JxfOxbCGV8w&s" alt="FIAP Logo" width="94" height="94" style="margin-right: 10px; float: left;" />
+<div style="display: flex; align-items: center; gap: 15px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_utdz60WOw1d7HI8OAvIxnt5JxfOxbCGV8w&s" 
+       alt="FIAP Logo" 
+       width="94" 
+       height="94" />
 
-**DATA SCIENCE (GRADUATE) - ONGOING**  
-FEB 2025 - DEC 2026  
-[**FIAP**](https://www.fiap.com.br/graduacao/tecnologo/data-science/)
+  <div>
+    <strong>DATA SCIENCE - ONGOING</strong><br>
+    FEB 2025 - DEC 2026 (Associate Degree)<br>
+    <a href="https://www.fiap.com.br/graduacao/tecnologo/data-science/" target="_blank"><strong>FIAP</strong></a>
+  </div>
+</div>
 
 #### Cerificates:
-<br>
 <a href="https://www.linkedin.com/in/isabella-heder-b7b022296/details/certifications/?locale=en_US" target="_blank">
   View my certifications on LinkedIn
 </a>
-
 <br>
-<details closed>
+<br>
+<details closed> <br>
 <summary><strong>Statistics</strong></summary>
 <div align="center">
 <br>
