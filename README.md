@@ -88,6 +88,7 @@ Here you can find some of my projects! Hope you enjoy :)
 <details closed>
 <summary><strong>Technology and Tools</strong></summary>
 #### • Tools  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
