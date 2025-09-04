@@ -116,12 +116,12 @@ Here you can find some of my projects! Hope you enjoy :)
 </details>
 
 <details closed>
-<summary><strong>Competencies and Experiences</strong></summary>
+<summary><strong>Competences and Experiences</strong></summary>
 
-#### Qualificação Acadêmica
+#### Higher Education 
 <br>
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="E:\FIAP.png"/>](https://www.fiap.com.br/graduacao/tecnologo/data-science/?utm_term=&utm_campaign=GRAD+-+DSA&utm_source=adwords&utm_medium=ppc&hsa_acc=3358810376&hsa_cam=21102294227&hsa_grp=158449020381&hsa_ad=737339939679&hsa_src=g&hsa_tgt=dsa-2403784242683&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=21102294227&gbraid=0AAAAADqmiBAVmVNAQJ5OcDAYJnHhY1Z-8&gclid=Cj0KCQjw8eTFBhCXARIsAIkiuOwHsKEwVJOD-ql4tk5FNJJeOPXt18aO3RzJOQrQPnhdaYp10hEhjjEaAll_EALw_wcB)
+<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_FIAP.png"/>
 
 **DATA SCIENCE (GRADUATE) - ONGOING** \
 FEB 2025 - DEC 2026 \
@@ -130,7 +130,8 @@ FEB 2025 - DEC 2026 \
 <details><summary>Credenciais e Certificados:</summary>
 <br>
 
-- [Curso de Java e Orientação a Objetos](https://drive.google.com/file/d/1_Kd2pGUdSe_oxvcJZm3_4_Yu685ZCnRI)
+- [GOLD CERTIFICATE FOR BEST STUDENTS](https://www.linkedin.com/in/isabella-heder-b7b022296/details/certifications/1755100886573/single-media-viewer/?locale=en_US&profileId=ACoAAEeM1g8Bhufdmn4oOgQEQA5gAX5Y5dwgvRw)
+- [Nano Course - Formação Social e Sustentabilidade](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=2548bc8fb50d23243cee3c1e00d46072&action=view)
 </details>
 
 <br>
