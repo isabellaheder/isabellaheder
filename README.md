@@ -121,11 +121,11 @@ Here you can find some of my projects! Hope you enjoy :)
 #### Higher Education 
 <br>
 
-![FIAP Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_FIAP.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_FIAP.png" alt="FIAP Logo" width="94" height="94" style="margin-right: 10px; float: left;" />
 
-**DATA SCIENCE (GRADUATE) - ONGOING** \
-FEB 2025 - DEC 2026 \
-[**FIAP**](https://www.fiap.com.br/graduacao/tecnologo/data-science/?utm_term=&utm_campaign=GRAD+-+DSA&utm_source=adwords&utm_medium=ppc&hsa_acc=3358810376&hsa_cam=21102294227&hsa_grp=158449020381&hsa_ad=737339939679&hsa_src=g&hsa_tgt=dsa-2403784242683&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=21102294227&gbraid=0AAAAADqmiBAVmVNAQJ5OcDAYJnHhY1Z-8&gclid=Cj0KCQjw8eTFBhCXARIsAIkiuOwHsKEwVJOD-ql4tk5FNJJeOPXt18aO3RzJOQrQPnhdaYp10hEhjjEaAll_EALw_wcB)
+**DATA SCIENCE (GRADUATE) - ONGOING**  
+FEB 2025 - DEC 2026  
+[**FIAP**](https://www.fiap.com.br/graduacao/tecnologo/data-science/)
 
 <details><summary>Credenciais e Certificados:</summary>
 <br>
