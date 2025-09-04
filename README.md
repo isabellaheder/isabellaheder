@@ -77,25 +77,31 @@ Here you can find some of my projects! Hope you enjoy :)
 </details>
 
 ---
-
 <details closed>
 <summary><strong>Education</strong></summary>
 
-<img  align="left" alt="FIAP Logo" width="94px" height="94px" style="margin-right: 10px; float: left;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_utdz60WOw1d7HI8OAvIxnt5JxfOxbCGV8w&s"/>
+<div style="display: flex; align-items: center; gap: 15px; margin-top: 10px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_utdz60WOw1d7HI8OAvIxnt5JxfOxbCGV8w&s" 
+       alt="FIAP Logo" 
+       width="94" 
+       height="94" />
 
-**DATA SCIENCE - ONGOING** 
-FEB 2025 - DEC 2026 ( Associates Degree ) 
-[**FIAP**](https://www.fiap.com.br/graduacao/tecnologo/data-science/) 
-
+  <div>
+    <strong>DATA SCIENCE - ONGOING</strong><br>
+    FEB 2025 - DEC 2026 (Associate Degree)<br>
+    <a href="https://www.fiap.com.br/graduacao/tecnologo/data-science/" target="_blank"><strong>FIAP</strong></a>
+  </div>
 </div>
+
 </details>
+
+---
 
 <details closed>
 <summary><strong>Certificates</strong></summary>
 
 <a href="https://www.linkedin.com/in/isabella-heder-b7b022296/details/certifications/?locale=en_US" target="_blank">
-  View my certifications on LinkedIn
-</a>
+  View my certifications on LinkedIn </a>
 
 </details>
 
