@@ -121,7 +121,7 @@ Here you can find some of my projects! Hope you enjoy :)
 #### Higher Education 
 <br>
 
-<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_FIAP.png"/>
+![FIAP Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Logo_FIAP.png)
 
 **DATA SCIENCE (GRADUATE) - ONGOING** \
 FEB 2025 - DEC 2026 \
