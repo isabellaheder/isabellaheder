@@ -18,8 +18,7 @@
 
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-lavender?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/isabella-heder-b7b022296)  
-[![Gmail](https://img.shields.io/badge/Gmail-lavender?logo=gmail)](mailto:isabella.f.heder@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-lavender?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/isabella-heder-b7b022296)  [![Gmail](https://img.shields.io/badge/Gmail-lavender?logo=gmail)](mailto:isabella.f.heder@gmail.com)
 
 </div>
 
