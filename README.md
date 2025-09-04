@@ -89,10 +89,10 @@ Here you can find some of my projects! Hope you enjoy :)
 <summary><strong>Technology and Tools</strong></summary>
 
 #### • Languages, Frameworks and Libraries I've had contact
-![Power BI]((https://custom-icon-badges.demolab.com/badge/?logo=power-bi-icon&logoColor=white)))
+![Power BI]((https://custom-icon-badges.demolab.com/badge/Power%20BI?logo=power-bi-icon&logoColor=white)))
 ![Python](https://img.shields.io/badge/Python-346fa0?style=flat&logo=python&logoColor=f7ca3e)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ead41c?style=flat&logo=javascript&logoColor=323330)
-![HTML5](https://img.shields.io/badge/HTML5-d84924?style=flat&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL?logo=mysql)
 ![CSS3](https://img.shields.io/badge/CSS3-2449d8?style=flat&logo=css3&logoColor=white)
 ![Node.JS](https://custom-icon-badges.demolab.com/badge/-Node.JS-679e58?style=flat&logo=node.js&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
@@ -123,6 +123,7 @@ Here you can find some of my projects! Hope you enjoy :)
 
 #### • Databases I've had contact
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30628a?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB?logo=mongodb)
 ![SQLite](https://img.shields.io/badge/SQLite-c1cdda?style=flat&logo=sqlite&logoColor=1784ce)
 ![DBeaver](https://custom-icon-badges.demolab.com/badge/-DBeaver-8b7463?style=flat&logo=dbeaver&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-c3c3c3?style=flat&logo=github&logoColor=black)
