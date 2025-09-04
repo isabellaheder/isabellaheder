@@ -122,7 +122,6 @@ Here you can find some of my projects! Hope you enjoy :)
 <br>
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_utdz60WOw1d7HI8OAvIxnt5JxfOxbCGV8w&s" alt="FIAP Logo" width="94" height="94" style="margin-right: 10px; float: left;" />
-
 **DATA SCIENCE (GRADUATE) - ONGOING**  
 FEB 2025 - DEC 2026  
 [**FIAP**](https://www.fiap.com.br/graduacao/tecnologo/data-science/)
