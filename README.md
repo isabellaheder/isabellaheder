@@ -81,14 +81,12 @@ Here you can find some of my projects! Hope you enjoy :)
 <details closed>
 <summary><strong>Education</strong></summary>
 
-<div style="display: flex; align-items: center; gap: 15px;">
 <img  align="left" alt="FIAP Logo" width="94px" height="94px" style="margin-right: 10px; float: left;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_utdz60WOw1d7HI8OAvIxnt5JxfOxbCGV8w&s"/>
 
-<div>
 **DATA SCIENCE - ONGOING** 
 FEB 2025 - DEC 2026 ( Associates Degree ) 
 [**FIAP**](https://www.fiap.com.br/graduacao/tecnologo/data-science/) 
-  </div>
+
 </div>
 </details>
 
