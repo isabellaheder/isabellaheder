@@ -27,7 +27,7 @@
 <p>
 
 <details closed>
-<summary><strong>Sobre mim</strong></summary>
+<summary><strong>About me</strong></summary>
 
 ---
 
@@ -45,7 +45,7 @@ I am a very dedicated person and I am always looking for experiences to learn an
 
 Currently, my goal is to get my first internship at a renowned company that makes use of data technology, where I can put my knowledge into practice and continue to evolve professionally.
 
-You can see some of my projects here! Hope you enjoy :)
+Here you can find some of my projects! Hope you enjoy :)
 
 </details>
 
