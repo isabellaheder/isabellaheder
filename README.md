@@ -1,12 +1,10 @@
 
 # Hello Github!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F729D7&center=true&multiline=true&width=436&lines=My+name+is+Isabella+Heder!)](https://git.io/typing-svg)
-
 <br>
 
 <div align="center">
-  <strong>Python | Power BI | SQL | DAX | Dashboards | And more!</strong>
+  <strong>Python | Power BI | SQL | DAX | Dashboards | And more </strong>
   <br><br>
   <blockquote>
     <i>Data Science student at FIAP in São Paulo, Brazil!</i>
@@ -29,11 +27,9 @@
   
 Hi! My name is [**Isabella Heder**](https://www.linkedin.com/in/isabella-heder-b7b022296). I am a Data Science student at FIAP with a strong interest in technology.
 
-During my studies, I have gained practical experience with essential tools such as Python, Power BI, Microsoft Office, SQL, Docker and many others. 
+During my studies, I have gained practical experience with essential tools such as Python, Power BI, SQL, Docker and many others. 
 
 I am a very dedicated person and I am always looking for experiences to learn and evolve professionally. My profile is characterized by responsibility, excellent communication and group work skills.
-
-Currently, my goal is to get my first internship at a renowned company that makes use of data technology, where I can put my knowledge into practice and continue to evolve professionally.
 
 Here you can find some of my projects! Hope you enjoy :)
 
