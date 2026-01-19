@@ -7,7 +7,8 @@
   <strong>Python | Power BI | SQL | DAX | Dashboards | And more </strong>
   <br><br>
   <blockquote>
-    <i>Data Science student at FIAP in São Paulo, Brazil!</i>
+    <i>Data Science student at FIAP in São Paulo, BR!</i> <br>
+    <i> Data Scientist at IBM Brazil! </i>
   </blockquote>
 </div>
 
@@ -25,38 +26,9 @@
 <summary><strong>About me</strong></summary>
 <br>
   
-Hi! My name is [**Isabella Heder**](https://www.linkedin.com/in/isabella-heder-b7b022296). I am a Data Science student at FIAP with a strong interest in technology.
+Hi! My name is [**Isabella Heder**](https://www.linkedin.com/in/isabella-heder-b7b022296). I am a Data Science student at FIAP and a Data Science Intern at IBM with a strong interest in technology.
 
 Here you can find some of my projects! Hope you enjoy :)
-
-</details>
-
----
-
-<details closed>
-<summary><strong>Technology and Tools</strong></summary>
-
-Python, SQL, Power BI, R, Data Analysis, Data Visualization, Git, Jupyter, Excel, Google Workspace, 
-
-#### • Governance:
-Agile Scrum Methodology, Miro, Azure Boards, Kanban...
-
-#### • Design Tools  
-Canva, Google Slides, Powerpoint, Docs and others.
-
-#### • Coding Environments and Shells  
-VS Code, Jupyter, RStudio, SQL Oracle Developer, WSL and others.
-
-#### • Python Libraries  
-Pandas, NumPy, Matplotlib, Scki-kit Learn, Seaborn, Plotly, Requests etc.
-
-#### • Databases I've had contact with  
-MongoDB, OracleDB, HBase, Cassandra, PostgreSQL and others. 
-
-#### • Other Tools
-Postman, Virtual Box, Docker and others.
-
-</div>
 
 </details>
 
