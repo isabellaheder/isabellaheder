@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <strong>Python | Power BI | SQL | DAX | Dashboards | And more </strong>
+  <strong>Python | Machine Learning | Data Analytics | Power BI | SQL  </strong>
   <br><br>
   <blockquote>
     <i>Data Science student at FIAP in São Paulo, BR!</i> <br>
